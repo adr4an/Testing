@@ -2,8 +2,6 @@
 public class MyClass {
 
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        System.out.println("Hello, Wurddd!");
-        System.out.println("Hello, Nga!");
+        System.out.println("Hello, Ngani!");
     }
 }
